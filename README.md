@@ -71,8 +71,6 @@ Estructura básica de un proyecto frontend
 
 📁 Otros proyectos
 
-(Aquí puedes ir agregando más links a medida que subas proyectos)
-
 🔗 Proyecto 1: https://github.com/lavoassie/portafolio_modulo2
 
 📫 Cómo contactarme:
