@@ -1,16 +1,25 @@
-## Hi there 👋
+¡Hola soy Genesis Stephanie! 👋
 
-<!--
-**lavoassie/lavoassie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenid@ a mi perfil de GitHub.
+Soy estudiante de Frontend, y estoy dando mis primeros pasos en el mundo del desarrollo web y la programación. Aquí encontrarás mis proyectos, ejercicios, avances y todo lo que voy aprendiendo en el camino.
 
-Here are some ideas to get you started:
+🔭 Actualmente estoy trabajando en proyectos personales para practicar HTML, CSS y JavaScript. 
+Sitios web simples para mejorar mi estructura y diseño.
+Proyectos con Next.js e internacionalización (i18n).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Actualmente estoy aprendiendo fundamentos de programación, desarrollo web, Next.js, next-i18next para internacionalización. Uso de Git y GitHub para control de versiones
+
+👯 Me gustaría colaborar en proyectos pequeños o de práctica para seguir mejorando mis habilidades.
+
+Sitios web estáticos, landing pages o diseños UI simples.
+
+🤔 Busco ayuda con buenas prácticas de desarrollo, organización de proyectos en GitHub y arquitectura básica en Next.js.
+
+
+📫 Cómo contactarme:
+
+Correo: voassie@gmail.com
+
+⚡ Dato curioso:
+
+¡Amo aprender cosas nuevas! Cada proyecto que subo es parte de mi progreso como desarrolladora en formación 🚀
